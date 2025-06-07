@@ -33,10 +33,6 @@ appears on your GitHub profile.
 ### 😄 Pronouns
 - He/Him
 
-### ⚡ Fun fact
-- 🐷 I manage 15 virtual pigs in my own “Farm Simulator” made in Unity.  
-- ☕️ I can’t code without a morning coffee.
-
 ---
 
 <div align="center">
