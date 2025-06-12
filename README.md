@@ -117,6 +117,7 @@ Creative game mechanics
 
 ---
 
+
 <div align="center">
 
 ## 💞️ Let's Collaborate!
@@ -124,17 +125,15 @@ Creative game mechanics
 
 </div>
 
-<table align="center" width="90%">
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-### 🎯 **Project Types**
-🎮 **Indie Game Development**  
-🔧 **Unity Editor Tools**  
-🌟 **Open-source Packages**  
+🎮 **Indie Game Development** • 🔧 **Unity Editor Tools** • 🌟 **Open-source Packages**  
+📱 **Mobile Optimization** • 🎨 **Interactive Experiences** • ⚡ **Performance Solutions**
 
-</td>
-<td align="center" width="50%">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### 🚀 **Focus Areas**
 📱 **Mobile Optimization**  
