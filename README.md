@@ -1,49 +1,26 @@
-<!--
-**napoleloc/napoleloc** is a ✨ _special_ ✨ repository because its `README.md` 
-appears on your GitHub profile.
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Lộc+👋;Unity+Developer+🎮;Game+%26+Interactive+Experiences+✨" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <h1>👋 Hi, I’m Lộc (@napoleloc)</h1>
-  <p>Unity Developer | Game &amp; Interactive Experiences</p>
+  <img src="https://github.com/napoleloc/napoleloc/blob/main/assets/unity-banner.gif" alt="Unity Banner" width="100%" />
 </div>
 
 ---
 
-### 👀 I’m interested in…
-- 🎮 2D/3D game development with Unity  
-- ⚙️ Performance optimization & multi-platform (Mobile, WebGL)  
-- 🤖 Basic AI/ML techniques in games  
-
-### 🌱 I’m currently learning…
-- 📱 Unity DOTS / ECS for high-performance, scalable games  
-- 🔧 Shader Graph 
-- 🛠️ CI/CD pipelines tailored for Unity (GitHub Actions, Fastlane)  
-- 🎨 Game UX/UI design principles  
-
-### 💞️ I’m looking to collaborate on…
-- Indie 2D/3D games with a creative twist  
-- Unity Editor extensions & open-source plugins  
-
-### 📫 How to reach me…
-- ✉️ Email: 
-- 🔗 LinkedIn: 
-- 🐦 Twitter: 
-
-### 😄 Pronouns
-- He/Him
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=napoleloc&color=blue" alt="Profile views" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=napoleloc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=napoleloc&theme=tokyonight" alt="GitHub streak stats" />
+  
+## 🚀 About Me
+
 </div>
 
-<!---
-napoleloc/napoleloc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```typescript
+const napoleloc = {
+    name: "Lộc",
+    role: "Unity Developer",
+    location: "Vietnam 🇻🇳",
+    focus: ["Game Development", "Interactive Experiences", "Performance Optimization"],
+    currentlyLearning: ["Unity DOTS/ECS", "Shader Graph", "CI/CD for Unity"],
+    funFact: "I turn coffee into games ☕ → 🎮"
+};
+```
