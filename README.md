@@ -1,4 +1,3 @@
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Lộc+👋;Unity+Developer+🎮;Game+%26+Interactive+Experiences+✨)
@@ -117,30 +116,13 @@ Creative game mechanics
 
 ---
 
-
 <div align="center">
 
 ## 💞️ Let's Collaborate!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-</div>
-
-<div align="center">
-
 🎮 **Indie Game Development** • 🔧 **Unity Editor Tools** • 🌟 **Open-source Packages**  
 📱 **Mobile Optimization** • 🎨 **Interactive Experiences** • ⚡ **Performance Solutions**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-### 🚀 **Focus Areas**
-
-<div align="center">
-📱 **Mobile Optimization**  
-🎨 **Interactive Experiences**  
-⚡ **Performance Solutions**  
 
 </div>
 
