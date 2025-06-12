@@ -83,7 +83,6 @@ Creative game mechanics
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
@@ -182,24 +181,6 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 🎮 Featured Projects
-</div>
-
-<div align="center">
-
-[![Game Project](https://github-readme-stats.vercel.app/api/pin/?username=napoleloc&repo=awesome-unity-game&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/napoleloc/awesome-unity-game)
-[![Unity Tools](https://github-readme-stats.vercel.app/api/pin/?username=napoleloc&repo=unity-development-tools&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/napoleloc/unity-development-tools)
-
-[![Mobile Game](https://github-readme-stats.vercel.app/api/pin/?username=napoleloc&repo=mobile-puzzle-game&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/napoleloc/mobile-puzzle-game)
-[![Shader Collection](https://github-readme-stats.vercel.app/api/pin/?username=napoleloc&repo=unity-shader-collection&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/napoleloc/unity-shader-collection)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
 ## 🤝 Connect with Me
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
@@ -212,80 +193,6 @@ Creative game mechanics
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/napoleloc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://napoleloc.dev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@napoleloc)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-## 📝 Latest Blog Posts
-</div>
-
-<div align="center">
-
-📖 **[Unity Performance Optimization: A Complete Guide](https://napoleloc.dev/unity-performance)**  
-🛠️ **[Building Custom Unity Editor Tools from Scratch](https://napoleloc.dev/unity-editor-tools)**  
-🚀 **[Getting Started with Unity DOTS: ECS Fundamentals](https://napoleloc.dev/unity-dots)**  
-📱 **[Mobile Game Development Best Practices in Unity](https://napoleloc.dev/mobile-gamedev)**  
-🎨 **[Advanced Shader Techniques for Indie Developers](https://napoleloc.dev/shader-techniques)**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-## 🎯 Current Goals for 2024
-</div>
-
-<div align="center">
-
-- 🎮 Launch my first commercial indie game on Steam
-- 🛠️ Create and publish 5 open-source Unity tools
-- 📚 Master Unity DOTS & ECS architecture completely
-- 🌟 Contribute to 10+ major Unity open-source packages
-- 👥 Build a game development community of 1000+ members
-- 📹 Create Unity tutorial series on YouTube
-- 🏆 Reach 1000 GitHub stars across all repositories
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-## 🏅 Achievements & Certifications
-</div>
-
-<div align="center">
-
-🏆 **Unity Certified Expert: 2D Game Developer**  
-🥇 **Unity Certified Associate: Game Developer**  
-📜 **C# Programming Certification**  
-🎖️ **Game Development Specialization**  
-⭐ **Open Source Contributor**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<div align="center">
-## 💰 Support My Work
-</div>
-
-<div align="center">
-
-If you find my projects helpful, consider supporting my work:
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/napoleloc)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/napoleloc)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/napoleloc)
 
 </div>
 
