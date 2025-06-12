@@ -136,9 +136,13 @@ Creative game mechanics
 
 
 ### 🚀 **Focus Areas**
+
+<div align="center">
 📱 **Mobile Optimization**  
 🎨 **Interactive Experiences**  
 ⚡ **Performance Solutions**  
+
+</div>
 
 </td>
 </tr>
