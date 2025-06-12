@@ -1,3 +1,4 @@
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Lộc+👋;Unity+Developer+🎮;Game+%26+Interactive+Experiences+✨)
@@ -65,8 +66,10 @@ Creative game mechanics
 ---
 
 <div align="center">
-**🛠️ Tech Stack**
+
+## 🛠️ Tech Stack
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
 </div>
 
 <div align="center">
@@ -92,8 +95,10 @@ Creative game mechanics
 ---
 
 <div align="center">
-**🌱 Currently Learning**
+
+## 🌱 Currently Learning
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 </div>
 
 <div align="center">
@@ -113,29 +118,42 @@ Creative game mechanics
 ---
 
 <div align="center">
-**💞️ Let's Collaborate!**
+
+## 💞️ Let's Collaborate!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-
-<div align="center">
-
-🔍 **I'm looking to collaborate on:**
-- 🎮 Indie 2D/3D game projects
-- 🔧 Unity Editor tools & plugins
-- 🌟 Open-source Unity packages
-- 📱 Mobile game optimization
-- 🎨 Creative interactive experiences
-- 🚀 Performance optimization solutions
 
 </div>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Project Types**
+🎮 **Indie Game Development**  
+🔧 **Unity Editor Tools**  
+🌟 **Open-source Packages**  
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 **Focus Areas**
+📱 **Mobile Optimization**  
+🎨 **Interactive Experiences**  
+⚡ **Performance Solutions**  
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 <div align="center">
-**📊 GitHub Analytics**
+
+## 📊 GitHub Analytics
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+
 </div>
 
 <div align="center">
@@ -156,8 +174,10 @@ Creative game mechanics
 ---
 
 <div align="center">
-**🏆 GitHub Trophies**
+
+## 🏆 GitHub Trophies
 <img src="https://media.giphy.com/media/5NNhSyT3yHyKk/giphy.gif" width="50">
+
 </div>
 
 <div align="center">
@@ -169,7 +189,9 @@ Creative game mechanics
 ---
 
 <div align="center">
-**📈 Activity Graph**
+
+## 📈 Activity Graph
+
 </div>
 
 <div align="center">
@@ -181,8 +203,10 @@ Creative game mechanics
 ---
 
 <div align="center">
-**🤝 Connect with Me**
+
+## 🤝 Connect with Me
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 </div>
 
 <div align="center">
