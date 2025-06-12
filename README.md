@@ -38,7 +38,7 @@ appears on your GitHub profile.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=napoleloc&color=blue" alt="Profile views" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=napoleloc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=napoleloc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=napoleloc&theme=tokyonight" alt="GitHub streak stats" />
 </div>
