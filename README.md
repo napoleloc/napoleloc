@@ -224,8 +224,6 @@ Creative game mechanics
 
 **Show some ❤️ by starring repositories you find helpful!**
 
-![Snake animation](https://github.com/napoleloc/napoleloc/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <!--
