@@ -65,7 +65,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 🛠️ Tech Stack
+**🛠️ Tech Stack**
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 </div>
 
@@ -92,7 +92,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 🌱 Currently Learning
+**🌱 Currently Learning**
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </div>
 
@@ -113,7 +113,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 💞️ Let's Collaborate!
+**💞️ Let's Collaborate!**
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 
@@ -134,7 +134,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 📊 GitHub Analytics
+**📊 GitHub Analytics**
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 </div>
 
@@ -156,7 +156,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 🏆 GitHub Trophies
+**🏆 GitHub Trophies**
 <img src="https://media.giphy.com/media/5NNhSyT3yHyKk/giphy.gif" width="50">
 </div>
 
@@ -169,7 +169,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 📈 Activity Graph
+**📈 Activity Graph**
 </div>
 
 <div align="center">
@@ -181,7 +181,7 @@ Creative game mechanics
 ---
 
 <div align="center">
-## 🤝 Connect with Me
+**🤝 Connect with Me**
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
 
